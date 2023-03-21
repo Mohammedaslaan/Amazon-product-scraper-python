@@ -5,7 +5,9 @@ python libraries used:
 1. Beatuful Soup
 2. pandas
 
-Problem faced :- Amazon server security often detect as a computer and then denied to provide data.
+Challenges faced :- 
+1. Amazon server security often detect as a computer and then denied to provide data.
+2. Finding of the tags, class names, id for product Titles, Price, ASIN number etc, was a big problem. because source code of amazon is worse.
 
 PartOne file contain
   
