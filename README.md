@@ -1,13 +1,13 @@
 # Amazon-product-scraper-python
-this is a contains python program for scraping product details from amazon page. given as a task for python internship.
+this contains python program for scraping product details from amazon page. given as a task for python internship.
 
 python libraries used:
 1. Beatiful Soup
 2. pandas
 
 Challenges faced :- 
-1. Amazon server security often detect as a computer and then denied to provide data.
-2. Finding of the tags, class names, id for product Titles, Price, ASIN number etc, was a big problem. because source code of amazon is worse.
+1. Amazon server security often detect us as a computer and then denied to provide data.
+2. Finding of the tags, class names, id for product titles, Price, ASIN number etc, was a big problem. because source code of amazon is worse.
 
 PartOne file contain
   
