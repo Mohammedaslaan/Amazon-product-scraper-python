@@ -2,7 +2,7 @@
 this is a contains python program for scraping product details from amazon page. given as a task for python internship.
 
 python libraries used:
-1. Beatuful Soup
+1. Beatiful Soup
 2. pandas
 
 Challenges faced :- 
